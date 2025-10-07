@@ -7,3 +7,6 @@
 --    SELECT, FROM, WHERE, AND, OR, ORDER BY, LIMIT, LIKE, DISTINCT, BETWEEN, AS
 
 -- writing a comment like this
+
+-- selecting all columns from the crime scene report
+SELECT * FROM crime_scene_report;
