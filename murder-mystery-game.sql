@@ -5,3 +5,5 @@
 
 -- Using these SQL clauses will help you solve the mystery: 
 --    SELECT, FROM, WHERE, AND, OR, ORDER BY, LIMIT, LIKE, DISTINCT, BETWEEN, AS
+
+-- writing a comment like this
